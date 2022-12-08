@@ -1,12 +1,11 @@
 ### Hi there 👋 I'm Dmitry
 
-
-
+### I am a cheerful product analyst and ML developer from Russia</h3>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/kolesnokov__dima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolesnokov__dima" height="30" width="40" /></a>
+<a href="https://instagram.com/kolesnokov__dima" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kolesnokov__dima" height="30" width="40" /> </a> <a href="https://t.me/kolesnikov_dima" target="_blank" ><img align="center" src="https://www.oblgazeta.ru/media/filer_public/2022/03/24/bf340d0a-384c-4d90-a070-9266ef7cf17b-телега.jpg.1024x0_q85.jpg" alt="telegram" width="55" height="40"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
