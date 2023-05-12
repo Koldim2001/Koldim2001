@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dmitry
 
-### I am a cheerful product analyst and ML developer from Russia</h3>
+### I am a cheerful ML developer and product analyst from Russia</h3>
 
 
 <h3 align="left">Connect with me:</h3>
