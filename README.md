@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dmitry
 
-### I'm  a cheerful Computer Vision engineer and a data scientist specializing in ML/DL development.
+### I'm a cheerful Computer Vision engineer and a data scientist specializing in ML/DL model development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
