@@ -14,10 +14,7 @@
 
 </p>
 
-
-
-<p align="center">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=true&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />
-  <img width="30%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koldim2001&size_weight=0&count_weight=1&layout=compact" />
+<p align="left">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=true&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
 </p>
 
