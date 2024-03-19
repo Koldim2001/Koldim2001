@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Dmitry
 
-### I am a cheerful ML/DL developer and product analyst from Russia</h3>
-
+### I'm  a cheerful Computer Vision engineer and a data scientist specializing in ML/DL development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,17 +16,8 @@
 
 
 
-<!--
-**Koldim2001/Koldim2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=true&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />
+  <img width="25%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koldim2001&size_weight=0&count_weight=1&layout=compact" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
