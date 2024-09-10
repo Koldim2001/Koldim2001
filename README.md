@@ -36,5 +36,5 @@
 </p>
 
 <p align="left">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=false&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
+  <img width="80%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=false&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
 </p>
