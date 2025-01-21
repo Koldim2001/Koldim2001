@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Dmitry
 
-### I'm a cheerful Computer Vision engineer and a data scientist specializing in ML/DL model development
+### I am a Lead Computer Vision Engineer and Data Scientist, specializing in ML/DL model development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,7 +19,6 @@
 
 
 
-
 </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
 </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
@@ -32,9 +31,8 @@
 </p>
 
 
-
 </p>
 
 <p align="left">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=false&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=true&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
 </p>
