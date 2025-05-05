@@ -24,10 +24,10 @@
 </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://mephisto.cc/images/thumbnail/fastapi_logo.svg" alt="FastAPI" width="50" height="45"/> 
 </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://global.discourse-cdn.com/graphviz/original/1X/f0d0d26db1f2d99da8472951c60e5a1b782eb6fe.png" alt="streamlit" width="40" height="40"/> 
-</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="130" height="40"/> 
+</a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
 </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
 </a> <a href="https://plotly.com/python/" target="_blank" rel="noreferrer"> <img src="https://snola.es/wp-content/uploads/2017/01/Plotly_logo_for_digital_final_6.png" alt="plotly" width="39" height="40"/> 
-</a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://d259t2jj6zp7qm.cloudfront.net/images/20231101162934/image-2023-11-01T162926.061.png" alt="LangChain" width="54" height="40"/> 
+</a> <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://d259t2jj6zp7qm.cloudfront.net/images/20231101162934/image-2023-11-01T162926.061.png" alt="LangChain" width="60" height="40"/> 
 </p>
 
 
